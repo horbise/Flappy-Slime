@@ -6,7 +6,7 @@ Endless runner inspired by Flappy Bird, where a green slime has to avoid scrolli
 
 ## Installation
 have python and 
-pip install pygame
+pip install pygame,
 pip install pygame_menu
 
 ## Coming soon
