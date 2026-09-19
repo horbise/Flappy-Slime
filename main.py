@@ -84,10 +84,6 @@ while run:
     block_rect2 = block2.get_rect(topleft=(x2, y2))
     block_rect3 = block3.get_rect(topleft=(x3, y3))
 
-    pygame.draw.rect(screen, (0, 255, 0), slime_rect, 2)
-    pygame.draw.rect(screen, (255, 0, 0), block_rect, 2)
-    pygame.draw.rect(screen, (255, 0, 0), block_rect2, 2)
-    pygame.draw.rect(screen, (255, 0, 0), block_rect3, 2)
     
     if slime_rect.colliderect(block_rect):
          run = False
