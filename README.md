@@ -11,4 +11,4 @@ pip install pygame
 
 ## À venir
 - Hauteur aléatoire des obstacles
-- Écran de game over -menu
+- Écran de game over
