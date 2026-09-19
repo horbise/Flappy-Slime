@@ -1,14 +1,14 @@
 # Flappy Slime
 
-Endless runner inspiré de Flappy Bird, où un slime vert doit éviter des obstacles bleus défilants.
-
-## Contrôles
-- **Espace** : faire sauter le slime
+Endless runner inspired by Flappy Bird, where a green slime has to avoid scrolling blue obstacles.
+## Controls
+- **Space** : up the slime
 
 ## Installation
-avoir python puis 
+have python and 
 pip install pygame
+pip install pygame_menu
 
-## À venir
-- Hauteur aléatoire des obstacles
-- Écran de game over
+## Coming soon
+- random obstacle
+- new bioms
